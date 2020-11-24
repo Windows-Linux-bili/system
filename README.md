@@ -8,7 +8,7 @@
   <li>Ubuntu系统官网<a href="https://cn.ubuntu.com/download">Ubuntu入口</a>
   
   <h3>自己开发的系统</h3>
-  <li>改进中~~~~~2021.1.5发布</a>
+  <li>提前发布！！！！qq群（开发）：431719050。qq群（主要部分）：787262608</a>
 
 <h3>关于<h3>
 <li><li>持续更新中——Windows_Linux_</li>
