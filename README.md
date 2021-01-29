@@ -8,7 +8,7 @@
   <li>Ubuntu系统官网<a href="https://cn.ubuntu.com/download">Ubuntu入口</a>
   
   <h3>自己开发的系统</h3>
-  <li>提前发布！！！！qq群（开发）：431719050。qq群（主要部分）：787262608</a>
+  <li>提前发布！！！！qq群（开发）：431719050。qq群（主要部分）：787262608</a>_____由于nt内核是nt5.x，现在要转到nt6.x，停更2个月。。。。
 
 <h3>关于<h3>
 <li><li>持续更新中——Windows_Linux_</li>
