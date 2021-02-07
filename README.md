@@ -3,7 +3,7 @@
   <li>msdn 系统资源下载<a href="https://msdn.itellyou.cn/">msdn入口</a> <a href="https://next.itellyou.cn/">next，msdn入口</a>
   <li>win10（微软）官网<a href="https://www.microsoft.com/zh-cn/software-download/windows10">win10入口</a>
    <li>windows embedded posready 7 下载地址：链接: https://pan.baidu.com/s/1hMO2KVmXRBONwvErBaAjMg 提取码: m7cp 复制这段内容后打开百度网盘手机App，操作更方便哦
-     不限速：lanzous.com
+     不限速：lanzous.com,然后搜索pos7就行了
       
   <h3>Linux系统</h3>
   <li>deepin系统官网<a href="https://www.deepin.org/zh/download/">deepin入口</a>
